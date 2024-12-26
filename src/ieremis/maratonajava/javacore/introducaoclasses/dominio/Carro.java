@@ -1,4 +1,4 @@
-package ieremis.maratonajava.javacore.introducaoclasses1.dominio;
+package ieremis.maratonajava.javacore.introducaoclasses.dominio;
 
 public class Carro {
     public String marca;

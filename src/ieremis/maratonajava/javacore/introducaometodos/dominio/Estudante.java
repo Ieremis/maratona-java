@@ -1,4 +1,4 @@
-package ieremis.maratonajava.javacore.introducaoclasses1.dominio;
+package ieremis.maratonajava.javacore.introducaometodos.dominio;
 
 public class Estudante {
     public String nome;

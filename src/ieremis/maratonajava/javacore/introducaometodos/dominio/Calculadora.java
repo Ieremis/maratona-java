@@ -1,4 +1,4 @@
-package ieremis.maratonajava.javacore.introducaoclasses2.dominio;
+package ieremis.maratonajava.javacore.introducaometodos.dominio;
 
 public class Calculadora {
 

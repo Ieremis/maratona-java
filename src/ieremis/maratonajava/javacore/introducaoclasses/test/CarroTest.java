@@ -1,6 +1,6 @@
-package ieremis.maratonajava.javacore.introducaoclasses1.test;
+package ieremis.maratonajava.javacore.introducaoclasses.test;
 
-import ieremis.maratonajava.javacore.introducaoclasses1.dominio.Carro;
+import ieremis.maratonajava.javacore.introducaoclasses.dominio.Carro;
 
 public class CarroTest {
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
-package ieremis.maratonajava.javacore.introducaoclasses1.test;
+package ieremis.maratonajava.javacore.introducaoclasses.test;
 
-import ieremis.maratonajava.javacore.introducaoclasses1.dominio.Estudante;
+import ieremis.maratonajava.javacore.introducaoclasses.dominio.Estudante;
 
 public class EstudanteTest01 {
     public static void main(String[] args) {

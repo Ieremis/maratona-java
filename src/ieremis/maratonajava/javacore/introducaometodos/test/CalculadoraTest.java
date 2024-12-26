@@ -1,6 +1,6 @@
-package ieremis.maratonajava.javacore.introducaoclasses2.test;
+package ieremis.maratonajava.javacore.introducaometodos.test;
 
-import ieremis.maratonajava.javacore.introducaoclasses2.dominio.Calculadora;
+import ieremis.maratonajava.javacore.introducaometodos.dominio.Calculadora;
 
 public class CalculadoraTest {
     public static void main(String[] args) {
