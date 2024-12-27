@@ -26,4 +26,20 @@ public class Calculadora {
         }
         System.out.println(num1 / num2);
     }
+
+    public void somaArrays(int[] array){
+        int soma = 0;
+        for(int num:array){
+            soma += num;
+        }
+        System.out.println(soma);
+    }
+
+    public void somaVarArgs(int... array){
+        int soma = 0;
+        for(int num:array){
+            soma += num;
+        }
+        System.out.println(soma);
+    }
 }
